@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1368506047 source:b:\learn&&study\hello world!\软件设计与实践开发1\散列技术\开散列\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+

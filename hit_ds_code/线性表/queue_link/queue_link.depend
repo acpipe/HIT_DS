@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1363670852 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\线性表\queue_link\main.cpp
+	<iostream>
+	"queue_link.h"
+	<cstring>
+	<cstdio>
+
+1363670853 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\线性表\queue_link\queue_link.h
+	<cstdio>
+

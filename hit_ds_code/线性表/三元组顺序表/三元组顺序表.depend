@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1363618663 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\线性表\三元组顺序表\main.cpp
+	<iostream>
+	"threemat.h"
+
+1363618939 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\线性表\三元组顺序表\threemat.h
+	<iostream>
+

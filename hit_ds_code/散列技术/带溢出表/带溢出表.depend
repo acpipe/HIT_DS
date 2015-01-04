@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1368506449 source:b:\learn&&study\hello world!\软件设计与实践开发1\散列技术\带溢出表\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

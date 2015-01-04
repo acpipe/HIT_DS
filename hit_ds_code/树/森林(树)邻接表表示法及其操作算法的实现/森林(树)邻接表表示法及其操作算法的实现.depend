@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1364891142 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\森林(树)邻接表表示法及其操作算法的实现\main.cpp
+	<iostream>
+	<stdio.h>
+	"forest.h"
+
+1364891098 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\森林(树)邻接表表示法及其操作算法的实现\forest.h
+	"stack.h"
+	"queue.h"
+	<iostream>
+
+1364608881 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\森林(树)邻接表表示法及其操作算法的实现\stack.h
+
+1364608881 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\森林(树)邻接表表示法及其操作算法的实现\queue.h
+

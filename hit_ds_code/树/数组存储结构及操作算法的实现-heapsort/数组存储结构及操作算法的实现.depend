@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1363695918 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\数组存储结构及操作算法的实现\main.cpp
+	"heapsort.h"
+
+1363695918 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\数组存储结构及操作算法的实现\heapsort.h
+	<iostream>
+
+1363696519 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\数组存储结构及操作算法的实现-heapsort\main.cpp
+	"heapsort.h"
+
+1363695918 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\数组存储结构及操作算法的实现-heapsort\heapsort.h
+	<iostream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1363150576 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\线性表\stack_link\main.cpp
+	<iostream>
+	<stdio.h>
+	"stack_link.h"
+
+1363145664 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\线性表\stack_link\stack_link.h
+

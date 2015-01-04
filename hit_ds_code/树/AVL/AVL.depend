@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1364821699 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\avl\main.cpp
+	"AVL.h"
+
+1364821426 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\avl\avl.h
+	<iostream>
+	<queue>
+	<cstring>
+

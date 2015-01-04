@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1367126897 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\图\kruskal\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1364391148 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\线索树\main.cpp
+	"listtree.h"
+
+1364391134 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\线索树\listtree.h
+	<iostream>
+	<cstring>
+
+1364391294 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\线索树（中序）---前中后3种遍历\main.cpp
+	"listtree.h"
+
+1364395461 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\线索树（中序）---前中后3种遍历\listtree.h
+	<iostream>
+	<cstring>
+

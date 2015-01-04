@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1363172950 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\线性表\list_link\main.cpp
+	<iostream>
+	"list_link.h"
+
+1363173094 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\线性表\list_link\list_link.h
+	<cstdio>
+

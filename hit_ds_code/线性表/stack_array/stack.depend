@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1363004493 source:c:\users\administrator\desktop\hello world!\stack\main.cpp
+	<iostream>
+	<cstdio>
+	"mystack.h"
+
+1362834821 c:\users\administrator\desktop\hello world!\stack\mystack.h
+
+1363004691 source:c:\users\administrator\desktop\胡明\stack\main.cpp
+	<iostream>
+	<cstdio>
+	"mystack.h"
+
+1363004984 c:\users\administrator\desktop\胡明\stack\mystack.h
+
+1363675911 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\线性表\stack_array\main.cpp
+	<iostream>
+	<cstdio>
+	"mystack.h"
+
+1363100212 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\线性表\stack_array\mystack.h
+

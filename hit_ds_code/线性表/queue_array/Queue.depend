@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1363071959 source:c:\users\administrator\desktop\hello world!\queue\main.cpp
+	<iostream>
+	"queue.h"
+
+1363072003 c:\users\administrator\desktop\hello world!\queue\queue.h
+	<cstdio>
+
+1363151472 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\线性表\queue_array\main.cpp
+	<iostream>
+	"queue.h"
+
+1363151472 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\线性表\queue_array\queue.h
+	<cstdio>
+

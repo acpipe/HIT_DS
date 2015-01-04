@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1364478526 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\双亲表示法\main.cpp
+	"parents.h"
+
+1364478696 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\双亲表示法\parents.h
+	<iostream>
+	<cstring>
+
+1364478526 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\双亲表示法-等价类划分\main.cpp
+	"parents.h"
+
+1364478696 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\双亲表示法-等价类划分\parents.h
+	<iostream>
+	<cstring>
+

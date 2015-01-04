@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1367503124 source:b:\learn&&study\hello world!\软件设计与实践开发1\散列\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1367511055 source:b:\learn&&study\hello world!\软件设计与实践开发1\散列技术\闭散列\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+

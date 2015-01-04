@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1364531977 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\树的遍历\main.cpp
+	"tree.h"
+
+1364531954 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\树的遍历\tree.h
+	<iostream>
+	<queue>
+
+1364531977 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\树的遍历-前后层序3种\main.cpp
+	"tree.h"
+
+1364531954 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\树的遍历-前后层序3种\tree.h
+	<iostream>
+	<queue>
+

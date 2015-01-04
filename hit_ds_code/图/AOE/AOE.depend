@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1367109973 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\图\aoe\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+	<cstdio>
+

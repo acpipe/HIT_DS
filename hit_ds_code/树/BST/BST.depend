@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1364822106 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\bst\main.cpp
+	"BST.h"
+
+1364822312 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\bst\bst.h
+	<iostream>
+	<cstring>
+

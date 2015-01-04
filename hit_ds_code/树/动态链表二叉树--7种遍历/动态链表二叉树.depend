@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1363744976 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\动态链表二叉树\main.cpp
+	"BTtree.h"
+
+1363744976 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\动态链表二叉树\bttree.h
+	<iostream>
+	<queue>
+	<stack>
+
+1363745274 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\动态链表二叉树--7种遍历\main.cpp
+	"BTtree.h"
+
+1363745274 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\动态链表二叉树--7种遍历\bttree.h
+	<iostream>
+	<queue>
+	<stack>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1363651990 source:b:\learn&&study\hello world!\软件设计与实践开发1\线性表\static_state_link\main.cpp
+	<iostream>
+	<stdio.h>
+	"static_state_link.h"
+
+1363651965 b:\learn&&study\hello world!\软件设计与实践开发1\线性表\static_state_link\static_state_link.h
+

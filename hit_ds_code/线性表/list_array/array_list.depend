@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1362807209 source:c:\users\administrator\desktop\hello world!\array_list\main.cpp
+	<iostream>
+	<cstring>
+	"array_list.h"
+
+1362567609 c:\users\administrator\desktop\hello world!\array_list\array_list.h
+	<cstdio>
+
+1362807209 source:c:\users\administrator\desktop\胡明\array_list\main.cpp
+	<iostream>
+	<cstring>
+	"array_list.h"
+
+1362567609 c:\users\administrator\desktop\胡明\array_list\array_list.h
+	<cstdio>
+
+1363671207 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\线性表\list_array\main.cpp
+	<iostream>
+	<cstring>
+	"array_list.h"
+
+1362567609 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\线性表\list_array\array_list.h
+	<cstdio>
+

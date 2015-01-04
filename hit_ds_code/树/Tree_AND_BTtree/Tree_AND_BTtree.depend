@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1364623136 source:c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\tree_and_bttree\main.cpp
+	"Turn.h"
+
+1364623811 c:\users\administrator\desktop\hello world!\软件设计与实践开发1\树\tree_and_bttree\turn.h
+	<iostream>
+
